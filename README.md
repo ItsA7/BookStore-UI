@@ -1,6 +1,6 @@
 # bookstore
 
-A new Flutter project.
+Flutter UI of a bookstore app.
 
 ## Getting Started
 
